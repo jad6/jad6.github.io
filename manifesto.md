@@ -10,17 +10,17 @@ These frameworks are organised into separate sections that can be read in any or
 
 Problems are an unavoidable part of life, appearing in various forms and intensities. While we may not be able to solve all problems, we can strategically focus on those that we have the most control over. A helpful way to categorise these problems is to divide them into three distinct types: Type I, Type II, and Type III.
 
-Type I problems are those we have direct control over. They are the most favourable type of problems because they significantly impact us, allowing us to exert considerable influence on their resolution, thereby enhancing the potential return on investment (ROI) for their solutions. For example:
+Type I problems are those we have direct control over, allowing us to exert considerable influence on their resolution, thereby enhancing the potential return on investment (ROI) for their solutions. For example:
 
 - **Problem:** I don’t get enough time to plan my week because I have too many meetings
 - **High ROI solution:** Block time in the calendar (and don’t let non-emergency meetings stomp on it) to plan my next moves
 
 Type II problems are more challenging to influence compared to Type I problems, but we still have some agency in their resolutions. These problems often arise during collaborative efforts, managing up or across, or when we are part of a larger system that is not significantly impacted by our actions. While the outcomes may not always align with our preferences, our influence on the solution is considered. The ROI for this category of problems is considered medium. For example:
 
-- **Problem:** A stakeholder is walking back their commitment due to higher priorities in their org. It’s now putting my project at risk.
+- **Problem:** A stakeholder is walking back their commitment due to higher priorities in their organisations. It’s now putting my project at risk.
 - **Medium ROI solution:** Individually I do not have the influence to change that but I can work up the chain to make this a type I problems for my bosses.
 
-Type III problems are beyond our control, but we can anticipate them if we observe them. These are the problems we should just observe and allocate minimal resources to. Ideally, they’ll downgrade to actionable Type II or Type I problems. The ROI for Type III problems is low. Examples include:
+Type III problems are beyond our control, but we can anticipate them if we observe them. These are the problems we should just observe and allocate minimal resources to. Ideally, they will downgrade to actionable Type II or Type I problems. The ROI for Type III problems is low. For example:
 
 - **Problem:** The stock trading policy makes it impossible to sell my shares for the next several weeks
 - **Low ROI solution:** Petition for an extremely unlikely change. A better use of energy is to wait for the blackout dates to lift
@@ -33,7 +33,7 @@ Categorising problems enables us to prioritise which ones should be tackled or d
 
 We make countless decisions daily, from the trivial (choosing between green or black tea) to the significant (whether to let someone go). While not every decision requires meticulous planning, having a framework for more impactful choices is crucial.
 
-Simulating potential outcomes based on current information can guide our decision-making process. The more context we have, the more we can apply second-order thinking to simulate future possibilities. Projections based on relevant context enable us to consider delayed gratification (a classic example being the [marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)) and explore a wider range of outcomes. Very few, if any, impactful decisions should be made without second-order thinking.
+Simulating potential outcomes based on current information can guide our decision-making process. The more context we have, the more we can apply second-order thinking: considering not only the immediate consequences of an action but also the secondary and tertiary effects that may result from it. Projections based on relevant context enable us to consider delayed gratification (a classic example being the [marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)) and explore a wider range of outcomes. Very few, if any, impactful decisions should be made without second-order thinking.
 
 To prepare better for more significant decisions, the ones we should truly invest time in, it’s beneficial to simulate different outcomes based on various starting conditions. A useful approach is to simulate the best, most realistic, and worst possibilities. Placing projected outcomes on this spectrum helps us make a more informed decision and prepares us for the eventual reality, which often falls somewhere in between.
 
@@ -45,7 +45,7 @@ Over time, decisions made using projections form a solid foundation of well-thou
 
 ## Embracing Bad News
 
-We often avoid sharing sharing bad news, preferring to handle problems privately. Unfortunately, suppressing bad news can grow to become unmanageable, causing more damage than necessary. When it becomes evident that the problem cannot be contained, we have no choice but to ask for help. That delay is often what makes bad news so challenging.
+We often avoid sharing bad news, preferring to handle problems privately. Unfortunately, suppressing bad news can grow to become unmanageable, causing more damage than necessary. When it becomes evident that the problem cannot be contained, we have no choice but to ask for help. That delay is often what makes bad news so challenging.
 
 We cannot avoid bad news, but we can embrace it as early as possible. Before the problem escalates, sharing it with stakeholders can slow a problem’s severity. Doing so fosters a culture of seeking help and reduces its stigma. When a culture rewards transparency for both good and bad news, it promotes growth, collaboration, and respect by creating a safe learning environment. This culture also enables early adjustment and proactive problem-solving, benefiting both individuals and organisations.
 
@@ -59,19 +59,11 @@ Large systems are often too complex and dynamic to keep in a single person’s h
 
 Zooming in and out helps us predict how small changes can lead to larger ones or how large changes can enable more effective small changes. It also encourages us to question our own biases, such as recency bias towards a better understood part of the system. A solid feel of the broader system coupled with patches of deep understanding allows us to find patterns and avoid duplicated efforts.
 
-It can be challenging to switch between zooming in and out, we might be focused on the critical problem du jour for instance. However, these moments are often when we would benefit the most from this kind of perspective. Giving ourselves permission to momentarily let go of our current all-consuming thoughts and zoom in or out to understand their place in the system at large can be a challenging yet beneficial exercise.
+It can be challenging to switch between zooming in and out. For example we might be focused on the critical problem du jour or we need to converge from brainstorming and pick a direction. However, these moments are often when we would benefit the most from this kind of perspective. Giving ourselves permission to momentarily let go of our current all-consuming thoughts and zoom in or out to understand their place in the system at large can be a challenging yet beneficial exercise.
 
 When switching our perspective, it’s important to adapt to the relevant context. Often, zooming out means more abstractions and higher-level thinking, while zooming in requires precision and pedantry. Being aware of these differences and switching our thinking allows us to better communicate the state of the system upstream and downstream.
 
 Zooming in and out of a large system provides perspective, enabling effective communication and reducing bias. This approach helps identify patterns, duplicated efforts, and potential impacts of micro and macro changes.
-
-## Do Few Things Great
-
-It’s normal to want to do everything and give it our best effort. However, these goals can often contradict each other, so instead we can aim to do fewer things and at a higher quality. Doing fewer things allows us to give each task more time by reducing context switching costs. 
-
-Accepting that there will often be too many thing competing for our attention can help us keep our current focus and selectively react to a subset of the daily information deluge and focus on keeping our current focus. For example, 100 things might ask for our attention during the day. Half of them won’t get more than a glance. Out of the rest, only about 25 should receive varying degrees of triage. Finally, only three or four should be given deep and uninterrupted attention.
-
-This framework isn’t a license to ignore responsibilities; deciding which responsibility to focus on next is in itself a task to be great at. Doing few things great is a way to organise our mental efforts more intentionally. Combined with good decision-making and when expectations are set, this framework is a surprisingly effective quality accelerator.
 
 ## Expect the Expected
 
@@ -82,6 +74,14 @@ It’s possible that conflicts arise while setting expectations which can be unc
 Setting expectations is half the story, being consistent and following through on promises validates the trust built when they were set, building an effective reputation. This allows people to focus more of their energies on the inevitable surprises that are part of any project and less on mismatched expectations.
 
 Expecting the expected reduces surprises and fosters trust and safety. Consistently setting expectations and diligently following through on them builds upon itself and has a profoundly positive impact on reputation.
+
+## Do Few Things Great
+
+It’s normal to want to do everything and give it our best effort. However, these goals can often contradict each other, so instead we can aim to do fewer things and at a higher quality. Doing fewer things allows us to give each task more time by reducing context switching costs. 
+
+Accepting that there will often be too many thing competing for our attention can help us keep our current focus and selectively react to a subset of the daily information deluge and focus on keeping our current focus. For example, 100 things might ask for our attention during the day. Half of them won’t get more than a glance. Out of the rest, only about 25 should receive varying degrees of triage. Finally, only three or four should be given deep and uninterrupted attention.
+
+This framework isn’t a license to ignore responsibilities; deciding which responsibility to focus on next is in itself a task to be great at. Doing few things great is a way to organise our mental efforts more intentionally. Combined with good decision-making and when expectations are set, this framework is a surprisingly effective quality accelerator.
 
 ## Cultivating the Right Knowledge Trees
 
@@ -101,7 +101,7 @@ Hiring is one of the most crucial decisions we make as an organisation. The indi
 
 It is beneficial to identify what can be taught and what is inherent to a person. For instance, learning about how machine learning models are built is a skill that can be taught. However, for someone to grasp concepts quickly and effectively, it helps enormously to be passionate and curious. Attributes such as these cannot be taught. A passionate and curious person enthusiastically pulls others in to share what they love. As the saying goes, “interested people are interesting”. Identifying and prioritising the non-teachable attributes we desire should take precedence when selecting a candidate.
 
-Interviews can be stressful, and to bring out the best in candidates, we need to create a safe and comfortable environment. By doing so, we can gain a much better understanding of what it would be like to work with our potential candidates. Additionally, when candidates feel more secure, they are more likely to showcase their non-teachable skills.
+Interviews can be stressful, and to bring out the best in candidates, we need to create an environment where candidates feel safe to make mistakes and present ourselves as a sounding board to bounce ideas with. By doing so, we can gain a much better understanding of what it would be like to work with our potential candidates. Additionally, when candidates feel more secure, they are more likely to showcase their non-teachable skills.
 
 Hiring decisions shape our culture, so it’s crucial to prioritise non-teachable attributes like passion and curiosity during the interview process. By creating a safe interview environment it allows us to get a better idea of what working with a candidate would be like on a daily basis.
 
@@ -123,7 +123,7 @@ Group development stages occur throughout the lifetime of teams or organisations
 
 To navigate changes in group dynamics while maintaining a healthy overall culture, we need to motivate our organisation. A useful framework for this is the [SCARF model](https://schoolguide.casel.org/uploads/sites/2/2018/12/SCARF-NeuroleadershipArticle.pdf), which stands for status (our social standing), certainty (sense of future stability), autonomy (feeling of control), relatedness (trust and safety with others), and fairness (perfection of fair exchanges). These attributes contribute to a threat or reward response in social situations. Humans are motivated by threats or rewards, but rewards are more sustainable and key to creating a healthy environment. To effectively motivate, we should identify which of these attributes impact team members the most and reward them for those.
 
-Implementing these frameworks can be challenging, and we may not always have complete control over how they become part of the culture. A project manager may better control how these frameworks are applied within their team or among their peers. When applied to larger groups and organisations, these frameworks need to be cultivated and passed down to layers of managers, each adding their own perspective. This requires us to lead the culture by example. Healthy examples lead to healthy cultures, which in turn allow more teams to perform for longer periods, and for motivation to naturally arises from within.
+Implementing these frameworks can be challenging, and we may not always have complete control over how they become part of the culture. When applied to larger groups and organisations, these frameworks need to be cultivated and passed down to layers of managers, each adding their own perspective. This requires us to lead the culture by example. Healthy examples lead to healthy cultures, which in turn allow more teams to perform for longer periods, and for motivation to naturally arises from within.
 
 ## Lead by Recommendation
 
@@ -139,7 +139,7 @@ Presenting options to decision makers by setting a clear context and providing a
 
 ## IOU Collaboration
 
-When working on shared goals, teams collaborate and divide tasks to advance a project. During these collaborations, relationships are formed between teams, inviting a parallel kind of collaboration that extends beyond the project’s lifecycle: IOU collaboration. This type of collaboration occurs when a team helps another with tasks that may not immediately benefit the helper. For instance, we might dedicate one of our team member’s time to assist a partner team with a project they’re running behind schedule on. This creates a positive feedback loop where teams with good relationships help each other in times of need outside of a more rigid structure such as a shared project.
+When working on shared goals, teams collaborate and divide tasks to advance a project. During these collaborations, relationships are formed between teams, inviting a parallel kind of collaboration that extends beyond the project’s lifecycle: I owe you (IOU) collaboration. This type of collaboration occurs when a team helps another with tasks that may not immediately benefit the helper. For instance, we might dedicate one of our team member’s time to assist a partner team with a project they’re running behind schedule on. This creates a positive feedback loop where teams with good relationships help each other in times of need outside of a more rigid structure such as a shared project.
 
 However, there’s a fine balance to IOU collaboration. Helping too much can overwhelm our teams and compromise our own goals, while helping too little isolates us when we need assistance and reduces our potential capacity. It’s crucial to only give favours when we’re in a position of strength. Overextending can lead to burnout within our teams and erode trust from our reports for signing them up for too much and from our leaders for risking our own goals. Therefore, we should volunteer to help others only if we’re in a position to give.
 
